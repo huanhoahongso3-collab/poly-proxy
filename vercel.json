@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/polymania/music_rp+pack.zip",
+      "source": "/polymania/music_rp\\+pack.zip",
       "destination": "/api/proxy"
     }
   ]
