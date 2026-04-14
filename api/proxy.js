@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-  const GITHUB_URL = "https://github.com/huanhoahongso3-collab/myserver/raw/refs/heads/playit-only/polymer/resource_pack.zip";
+  const GITHUB_URL = "https://github.com/huanhoahongso3-collab/myserver/releases/download/v20260414/resource_pack.zip";
 
   try {
     const response = await fetch(GITHUB_URL);
